@@ -123,15 +123,3 @@ Exemplo de código de um node:
 ## Exemplo de node subscriber
 
 ![Untitled](images/Untitled%203.png)
-
-## Como instalar o vscode
-
-```bash
-sudo snap install code --classic
-```
-
-## Como instalar o pip3
-
-```bash
-sudo apt install python3-pip
-```
