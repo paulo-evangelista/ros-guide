@@ -10,6 +10,10 @@
     
     Inicia um nodo do ROS
     
+- ros2 topic list
+- ros2 topic info /nomeDoTopico
+- ros2 interface show rosTopicType (consegue a partir do topic info)
+- ros2 topic echo /nomeDoTopico
 
 ## Como criar um workspace
 
@@ -111,6 +115,14 @@ ros2 run my_robot_controller test_node
 Exemplo de código de um node:
 
 ![Untitled](images/Untitled%201.png)
+
+## Exemplo de node publisher
+
+![Untitled](images/Untitled%202.png)
+
+## Exemplo de node subscriber
+
+![Untitled](images/Untitled%203.png)
 
 ## Como instalar o vscode
 
